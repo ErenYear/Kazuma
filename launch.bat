@@ -1,2 +1,2 @@
 @echo off
-py kazuma.py
+env\scripts\activate.bat && py kazuma.py
